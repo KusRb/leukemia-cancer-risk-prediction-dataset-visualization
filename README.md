@@ -136,7 +136,7 @@ The original dataset can be found on Kaggle: [Leukemia Cancer Risk Prediction Da
 
 ### Leukemia Status vs. Smoking Status
 
-![Leukemia Status vs. Smoking Status](visualization/leukemia_ vs_smoking.png)
+![Leukemia Status vs. Smoking Status](visualization/leukemia_vs_smoking.png)
 
 *   This grouped bar chart visualizes the relationship between Smoking Status (Yes/No) and Leukemia Status (Negative/Positive).  
 
